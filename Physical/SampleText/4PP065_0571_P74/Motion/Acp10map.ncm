@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=?>
+<NcMapping NcSwId="Acp10">
+  <NcObject Name="Axis_X" ModuleId="8I64xxxxxxx.00x-1" ModuleAddress="SDC_IF1.ST1" Type="ncAXIS" Channel="1" AcoposSimulation="Off" InitParameter="Axis_Xi" AcoposParameter="Axis_Xa" Disabled="FALSE" ModuleDisabled="FALSE" />
+</NcMapping>

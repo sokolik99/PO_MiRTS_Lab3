@@ -1,0 +1,10 @@
+VAR
+	motor_X : FB_Motor := (0);
+	pwm_period : REAL := 0.0;
+	coil_pwm_value : INT := 0;
+	coil_powered : BOOL := FALSE;
+	axis_X : FB_Axis := (0);
+END_VAR
+VAR CONSTANT
+	MAX_UNITS_PER_SECOND : UINT := 6500;
+END_VAR
